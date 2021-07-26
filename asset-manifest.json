@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/danisha661/sortingapplication/static/css/main.a617e044.chunk.css",
-    "main.js": "/danisha661/sortingapplication/static/js/main.bab49c5e.chunk.js",
-    "main.js.map": "/danisha661/sortingapplication/static/js/main.bab49c5e.chunk.js.map",
-    "runtime-main.js": "/danisha661/sortingapplication/static/js/runtime-main.aafb0571.js",
-    "runtime-main.js.map": "/danisha661/sortingapplication/static/js/runtime-main.aafb0571.js.map",
-    "static/js/2.759a0989.chunk.js": "/danisha661/sortingapplication/static/js/2.759a0989.chunk.js",
-    "static/js/2.759a0989.chunk.js.map": "/danisha661/sortingapplication/static/js/2.759a0989.chunk.js.map",
-    "static/js/3.fd75b4b9.chunk.js": "/danisha661/sortingapplication/static/js/3.fd75b4b9.chunk.js",
-    "static/js/3.fd75b4b9.chunk.js.map": "/danisha661/sortingapplication/static/js/3.fd75b4b9.chunk.js.map",
-    "index.html": "/danisha661/sortingapplication/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/danisha661/sortingapplication/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.759a0989.chunk.js.LICENSE.txt": "/danisha661/sortingapplication/static/js/2.759a0989.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/danisha661/sortingapplication/static/media/logo.6ce24c58.svg"
+    "main.css": "/sortingapplication/static/css/main.a617e044.chunk.css",
+    "main.js": "/sortingapplication/static/js/main.bab49c5e.chunk.js",
+    "main.js.map": "/sortingapplication/static/js/main.bab49c5e.chunk.js.map",
+    "runtime-main.js": "/sortingapplication/static/js/runtime-main.23bc0320.js",
+    "runtime-main.js.map": "/sortingapplication/static/js/runtime-main.23bc0320.js.map",
+    "static/js/2.759a0989.chunk.js": "/sortingapplication/static/js/2.759a0989.chunk.js",
+    "static/js/2.759a0989.chunk.js.map": "/sortingapplication/static/js/2.759a0989.chunk.js.map",
+    "static/js/3.fd75b4b9.chunk.js": "/sortingapplication/static/js/3.fd75b4b9.chunk.js",
+    "static/js/3.fd75b4b9.chunk.js.map": "/sortingapplication/static/js/3.fd75b4b9.chunk.js.map",
+    "index.html": "/sortingapplication/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/sortingapplication/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.759a0989.chunk.js.LICENSE.txt": "/sortingapplication/static/js/2.759a0989.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sortingapplication/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.aafb0571.js",
+    "static/js/runtime-main.23bc0320.js",
     "static/js/2.759a0989.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.bab49c5e.chunk.js"
