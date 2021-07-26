@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/danisha661/sortingapplication.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/danisha661/sortingapplication.git/static/js/main.bab49c5e.chunk.js",
+    "main.js.map": "/danisha661/sortingapplication.git/static/js/main.bab49c5e.chunk.js.map",
+    "runtime-main.js": "/danisha661/sortingapplication.git/static/js/runtime-main.deeead82.js",
+    "runtime-main.js.map": "/danisha661/sortingapplication.git/static/js/runtime-main.deeead82.js.map",
+    "static/js/2.759a0989.chunk.js": "/danisha661/sortingapplication.git/static/js/2.759a0989.chunk.js",
+    "static/js/2.759a0989.chunk.js.map": "/danisha661/sortingapplication.git/static/js/2.759a0989.chunk.js.map",
+    "static/js/3.fd75b4b9.chunk.js": "/danisha661/sortingapplication.git/static/js/3.fd75b4b9.chunk.js",
+    "static/js/3.fd75b4b9.chunk.js.map": "/danisha661/sortingapplication.git/static/js/3.fd75b4b9.chunk.js.map",
+    "index.html": "/danisha661/sortingapplication.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/danisha661/sortingapplication.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.759a0989.chunk.js.LICENSE.txt": "/danisha661/sortingapplication.git/static/js/2.759a0989.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/danisha661/sortingapplication.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.deeead82.js",
+    "static/js/2.759a0989.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.bab49c5e.chunk.js"
+  ]
+}
